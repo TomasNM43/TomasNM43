@@ -38,7 +38,7 @@ Me especializo en construir soluciones robustas y escalables, enfocadas en la ef
 
 ## 📫 Contacto
 - **Email:** tomasninan2@gmail.com
-- **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/tomás-ninán-melo-872a2a244)
+- **LinkedIn:** [www.linkedin.com/in/tomás-ninán-melo-872a2a244](www.linkedin.com/in/tomás-ninán-melo-872a2a244)
 - **Ubicación:** Lima, Perú 🇵🇪
 
 ---
